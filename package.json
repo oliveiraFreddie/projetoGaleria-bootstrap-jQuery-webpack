@@ -7,6 +7,10 @@
     "start": "webpack-dev-server",
     "build": "cross-env NODE_ENV=production webpack"
   },
+  "prettier": {
+    "singleQuote": false,
+    "semi": false
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
